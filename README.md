@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DinoSephiroth
+- 👋 Hi, I’m @TerrySephiroth
 - 👀 I’m interested in APP Development.
 - 🌱 I’m currently learning Xamarin.
 - 💞️ I’m looking to collaborate on financial industry.
-- 📫 You can reach me by dinosephiroth@gmail.com
+- 📫 You can reach me by Terrysephiroth@gmail.com
 
 <!---
-DinoSephiroth/DinoSephiroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TerrySephiroth/TerrySephiroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
